@@ -1,39 +1,237 @@
-<h1 align="center">Hi 👋, I'm Ishant Gupta</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishantgupta324" alt="ishantgupta324" /></a> </p>
+<!-- ==================== HEADER ==================== -->
 
-- 🔭 I’m currently working on [QR_Code Generator](https://github.com/Ishantgupta324/QR_Code-Generator)
+<div align="center">
 
-- 🌱 I’m currently learning **Machine learning**
+# Hi 👋, I'm Ishant Gupta
 
-- 👯 I’m looking to collaborate on [PDF-Merger](https://github.com/Ishantgupta324/PDF-Merge)
+### Full Stack Developer | AI & Machine Learning Enthusiast
 
-- 🤝 I’m looking for help with [INVYRA](https://github.com/Ishantgupta324/INVYRA)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ishantgupta324/Digital_Portfolio](https://github.com/Ishantgupta324/Digital_Portfolio)
-
-- 💬 Ask me about **Full Stack dev**
-
-- 📫 How to reach me **ishantgupta2323@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Ishantgupta324/Professional_Curriculum_Vitae](https://github.com/Ishantgupta324/Professional_Curriculum_Vitae)
-
-- ⚡ Fun fact **I am a Passionate Engineer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/ishantgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishantgupta" height="30" width="40" /></a>
-<a href="https://instagram.com/ishant_gupta_2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishant_gupta_2008" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ishant_ gupta_162" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ishant_ gupta_162" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishant_ gupta_162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishant_ gupta_162" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Ishantgupta324">
+    <img src="https://img.shields.io/badge/GitHub-Ishantgupta324-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=Ishantgupta324&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1" width="100%" alt="GitHub Trophies" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishantgupta324&show_icons=true&locale=en&layout=compact" alt="ishantgupta324" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishantgupta324&show_icons=true&locale=en" alt="ishantgupta324" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishantgupta324&" alt="ishantgupta324" /></p>
+<!-- ==================== ABOUT ME ==================== -->
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering student specializing in Artificial Intelligence.
+- 💻 Interested in Full Stack Development and Software Engineering.
+- 🔭 Currently working on **[QR Code Generator](https://github.com/Ishantgupta324/QR_Code-Generator)**.
+- 🌱 Currently learning **Machine Learning & AI**.
+- 🤝 Interested in open-source projects and collaboration.
+- 🚀 Building projects that solve real-world problems.
+- 💬 Ask me about **Python, Web Development & Full Stack Development**.
+- 📫 Reach me at: **ishantgupta2323@gmail.com**.
+
+---
+
+<!-- ==================== GITHUB OVERVIEW ==================== -->
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/Ishantgupta324">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshantgupta324&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" />
+</a>
+<a href="https://github.com/Ishantgupta324">
+  <img src="https://img.shields.io/github/stars/Ishantgupta324?style=for-the-badge&logo=github&label=Stars&color=yellow" />
+</a>
+<a href="https://github.com/Ishantgupta324">
+  <img src="https://img.shields.io/github/followers/Ishantgupta324?style=for-the-badge&logo=github&label=Followers&color=green" />
+</a>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishantgupta324&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishantgupta324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Ishantgupta324&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ishantgupta324&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+<!-- ==================== PROFILE SUMMARY ==================== -->
+
+## 📅 GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishantgupta324&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishantgupta324&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishantgupta324&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishantgupta324&theme=tokyonight" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishantgupta324&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔳 QR Code Generator
+
+A project focused on generating QR codes.
+
+**Repository:**  
+[QR_Code-Generator](https://github.com/Ishantgupta324/QR_Code-Generator)
+
+</td>
+<td width="50%">
+
+### 🛡️ INVYRA
+
+An ongoing project focused on building a software solution.
+
+**Repository:**  
+[INVYRA](https://github.com/Ishantgupta324/INVYRA)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Digital Portfolio
+
+My personal portfolio showcasing my work and projects.
+
+**Repository:**  
+[Digital Portfolio](https://github.com/Ishantgupta324/Digital_Portfolio)
+
+</td>
+<td width="50%">
+
+### 📄 Professional CV
+
+My professional curriculum vitae project.
+
+**Repository:**  
+[Professional CV](https://github.com/Ishantgupta324/Professional_Curriculum_Vitae)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css" />
+</p>
+
+### Frameworks, Libraries & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,pandas,sklearn" />
+</p>
+
+### Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+</p>
+
+---
+
+<!-- ==================== CONNECT WITH ME ==================== -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ishantgupta2008" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/ishant_gupta_2008" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/ishantgupta" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/ishant_gupta_162" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/ishant_gupta_162" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="mailto:ishantgupta2323@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<!-- ==================== PROFILE VISITORS ==================== -->
+
+<div align="center">
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Ishantgupta324&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+<br/><br/>
+
+### 💡 "Code. Create. Innovate. Repeat."
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
