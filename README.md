@@ -1,237 +1,150 @@
-
-<!-- ==================== HEADER ==================== -->
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Hi 👋, I'm Ishant Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ishant%20Gupta&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Aspiring%20AI%2FML%20Engineer&descSize=20&descAlignY=60" alt="header" width="100%"/>
 
-### Full Stack Developer | AI & Machine Learning Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ishant+Gupta;Frontend+%26+Backend+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;B.Tech+CSE+(AI)+%40+ABESIT;Currently+learning+Machine+Learning+%F0%9F%A4%96;Building+projects%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG" />
+<br/>
 
-<p>
-  <a href="https://github.com/Ishantgupta324">
-    <img src="https://img.shields.io/badge/GitHub-Ishantgupta324-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-India-138808?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge" />
-</p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ishantgupta324&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1" width="100%" alt="GitHub Trophies" />
+<img src="https://komarev.com/ghpvc/?username=ishantgupta324&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/ishantgupta324?label=Followers&style=for-the-badge&logo=github&color=2c5364" alt="followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ishantgupta324&query=$.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=203a43" alt="repos"/>
 
 </div>
 
 ---
-
-<!-- ==================== ABOUT ME ==================== -->
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science & Engineering student specializing in Artificial Intelligence.
-- 💻 Interested in Full Stack Development and Software Engineering.
-- 🔭 Currently working on **[QR Code Generator](https://github.com/Ishantgupta324/QR_Code-Generator)**.
-- 🌱 Currently learning **Machine Learning & AI**.
-- 🤝 Interested in open-source projects and collaboration.
-- 🚀 Building projects that solve real-world problems.
-- 💬 Ask me about **Python, Web Development & Full Stack Development**.
-- 📫 Reach me at: **ishantgupta2323@gmail.com**.
+```js
+const ishant = {
+  name:      "Ishant Gupta",
+  location:  "India 🇮🇳",
+  education: "B.Tech CSE (AI) — ABESIT",
+  role:      ["Frontend Developer", "Backend Developer", "Full Stack Learner"],
+  learning:  ["Machine Learning", "Data Structures & Algorithms"],
+  goal:      "AI / Machine Learning Engineer",
+  askMeAbout: ["Full Stack Development", "Python", "Web Projects"],
+  funFact:   "I am a Passionate Engineer ⚡"
+};
+```
+
+- 🔭 Currently working on **[QR Code Generator](https://github.com/Ishantgupta324/QR_Code-Generator)**
+- 🌱 Currently learning **Machine Learning**
+- 👯 Looking to collaborate on **[PDF Merger](https://github.com/Ishantgupta324/PDF-Merge)**
+- 🤝 Looking for help with **[INVYRA](https://github.com/Ishantgupta324/INVYRA)**
+- 💬 Ask me about **Full Stack Development**
+- 📄 My experience: **[Professional Curriculum Vitae](https://github.com/Ishantgupta324/Professional_Curriculum_Vitae)**
+- 🗂️ All my projects: **[Digital Portfolio](https://github.com/Ishantgupta324/Digital_Portfolio)**
 
 ---
 
-<!-- ==================== GITHUB OVERVIEW ==================== -->
-
-## 📊 GitHub Overview
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/Ishantgupta324">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FIshantgupta324&query=%24.public_repos&label=Public%20Repositories&logo=github&style=for-the-badge&color=blue" />
-</a>
-<a href="https://github.com/Ishantgupta324">
-  <img src="https://img.shields.io/github/stars/Ishantgupta324?style=for-the-badge&logo=github&label=Stars&color=yellow" />
-</a>
-<a href="https://github.com/Ishantgupta324">
-  <img src="https://img.shields.io/github/followers/Ishantgupta324?style=for-the-badge&logo=github&label=Followers&color=green" />
-</a>
+**Languages**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css&perline=6" alt="languages"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ishantgupta324&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+**Frameworks, Libraries & Databases**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishantgupta324&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,pandas,numpy,sklearn&perline=5" alt="frameworks"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="tools"/>
 
 </div>
 
 ---
-
-<!-- ==================== CONTRIBUTION STREAK ==================== -->
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Ishantgupta324&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ishantgupta324&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-<!-- ==================== PROFILE SUMMARY ==================== -->
-
-## 📅 GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishantgupta324&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishantgupta324&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishantgupta324&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishantgupta324&theme=tokyonight" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishantgupta324&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
----
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🔳 QR Code Generator
+<a href="https://github.com/Ishantgupta324/INVYRA">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ishantgupta324&repo=INVYRA&theme=tokyonight&hide_border=true&show_owner=false" alt="INVYRA"/>
+</a>
+<a href="https://github.com/Ishantgupta324/QR_Code-Generator">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ishantgupta324&repo=QR_Code-Generator&theme=tokyonight&hide_border=true&show_owner=false" alt="QR Code Generator"/>
+</a>
+<a href="https://github.com/Ishantgupta324/PDF-Merge">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ishantgupta324&repo=PDF-Merge&theme=tokyonight&hide_border=true&show_owner=false" alt="PDF Merger"/>
+</a>
+<a href="https://github.com/Ishantgupta324/Digital_Portfolio">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ishantgupta324&repo=Digital_Portfolio&theme=tokyonight&hide_border=true&show_owner=false" alt="Digital Portfolio"/>
+</a>
 
-A project focused on generating QR codes.
+</div>
 
-**Repository:**  
-[QR_Code-Generator](https://github.com/Ishantgupta324/QR_Code-Generator)
-
-</td>
-<td width="50%">
-
-### 🛡️ INVYRA
-
-An ongoing project focused on building a software solution.
-
-**Repository:**  
-[INVYRA](https://github.com/Ishantgupta324/INVYRA)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Digital Portfolio
-
-My personal portfolio showcasing my work and projects.
-
-**Repository:**  
-[Digital Portfolio](https://github.com/Ishantgupta324/Digital_Portfolio)
-
-</td>
-<td width="50%">
-
-### 📄 Professional CV
-
-My professional curriculum vitae project.
-
-**Repository:**  
-[Professional CV](https://github.com/Ishantgupta324/Professional_Curriculum_Vitae)
-
-</td>
-</tr>
-</table>
+| Project | What it is | Tech |
+|---|---|---|
+| 💹 **[INVYRA](https://github.com/Ishantgupta324/INVYRA)** | AI-based investment system | Python, ML |
+| 🔳 **[QR Code Generator](https://github.com/Ishantgupta324/QR_Code-Generator)** | Generate QR codes instantly | Python / Web |
+| 📑 **[PDF Merger](https://github.com/Ishantgupta324/PDF-Merge)** | Merge multiple PDFs into one | Python |
+| 🌐 **[Digital Portfolio](https://github.com/Ishantgupta324/Digital_Portfolio)** | Personal portfolio website | HTML, CSS, JS |
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Languages and Tools
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css" />
-</p>
-
-### Frameworks, Libraries & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,mongodb,pandas,sklearn" />
-</p>
-
-### Development Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-</p>
-
----
-
-<!-- ==================== CONNECT WITH ME ==================== -->
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ishantgupta2008" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://www.instagram.com/ishant_gupta_2008" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.kaggle.com/ishantgupta" target="_blank">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/ishant_gupta_162" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/ishant_gupta_162" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="mailto:ishantgupta2323@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<!-- ==================== PROFILE VISITORS ==================== -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## 👀 Profile Visitors
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ishantgupta324&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishantgupta324&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages"/>
 
-<img src="https://komarev.com/ghpvc/?username=Ishantgupta324&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<br/>
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com?user=ishantgupta324&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-### 💡 "Code. Create. Innovate. Repeat."
+</div>
 
-**Thanks for visiting my profile! ⭐**
+### 📈 Contribution Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishantgupta324&bg_color=0d1117&color=36bcf7&line=36bcf7&point=ffffff&area=true&area_color=36bcf7&hide_border=true" alt="Contribution graph" width="100%"/>
+</div>
+
+### 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishantgupta324&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
+</div>
+
+---
+
+## 🏅 Achievements
+
+- 🥉 **3rd Prize** — Hacknovate 7.0 (Digital Trendsetters Club)
+- 🔥 **CodeChef** — 50-day streak, 1000+ practice questions, 10+ contests
+- 🎓 Certified: Python & Pandas (Kaggle), Introduction to Generative AI (Google), AI & Cybersecurity Awareness (TCS iON), Data Structures & Python (CodeChef)
+- 🧑‍💻 Participant: Build with Bharat 2.0 (NIT Delhi), Pitch to Prosper, multiple hackathons
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ishantgupta2323@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/Ishantgupta324"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://kaggle.com/ishantgupta"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="https://www.codechef.com/users/ishantgupta162"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://instagram.com/ishant_gupta_2008"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<!-- LeetCode: replace YOUR_LEETCODE_USERNAME with your real username, then uncomment
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+-->
+
+</div>
+
+<div align="center">
+
+*⭐ If you like my work, drop a star on my repos — it keeps me motivated!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%"/>
 
 </div>
